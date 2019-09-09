@@ -105,4 +105,8 @@ class TicTacToe
     @board = board
   end
 
+  def initialize(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
+      @board = board
+    end
+
 end
