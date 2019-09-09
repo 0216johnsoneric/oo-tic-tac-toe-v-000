@@ -101,10 +101,6 @@
 class TicTacToe
   # attr_accessor :board
 
-  def initiailze(board = [" "," "," "," "," "," "," "," "," "])
-    @board = board
-  end
-
   def initialize(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
       @board = board
     end
