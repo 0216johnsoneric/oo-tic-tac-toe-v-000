@@ -104,4 +104,5 @@ class TicTacToe
   def initiailze(board)
     @board = board
   end
+  
 end
