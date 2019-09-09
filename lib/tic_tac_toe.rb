@@ -99,7 +99,7 @@
 # end
 
 class TicTacToe
-  attr_accessor :board
+  # attr_accessor :board
 
   def initiailze(board = [" "," "," "," "," "," "," "," "," "])
     @board = board
